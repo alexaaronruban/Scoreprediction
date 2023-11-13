@@ -3,9 +3,10 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-catboost
-xgboost
 Flask
 dill==0.3.7
-logging
+#logging
+catboost
+xgboost
+
 #-e .
