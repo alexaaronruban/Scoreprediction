@@ -3,7 +3,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn
-Flask
+flask
 dill==0.3.7
 #logging
 catboost
