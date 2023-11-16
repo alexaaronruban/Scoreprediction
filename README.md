@@ -1,4 +1,4 @@
-#### Student Performance Prediction 
+#### STUDENT PERFORMANCE PREDICTION  
 
 #### Life cycle of the Machine learning Project
 
